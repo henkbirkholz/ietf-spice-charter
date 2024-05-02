@@ -35,10 +35,3 @@ SPICE will be inspired by the conceptual data model of the W3C VC but will not w
 * Proposed standard documents for digital credential profiles covering JWP and CWP (from JOSE) that enable digital credentials with unlinkability and selective disclosure. This work will include registering claims that are in the JWT and CWT registries to enable digital credentials to transition from one security format to another (i.e., JSON/CBOR).
 * Proposed standard document defining SD-CWT, a profile of CWT inspired by SD-JWT (from OAuth) that enables digital credentials with unlinkability and selective disclosure.
 * A proposed standard Metadata & Capability Discovery protocol for JWT, CWT, SD-JWT, SD-CWT, CWP and JWP using HTTPS/CoAP for CBOR-based digital credentials to enable the 3 roles (issuers, holders and verifiers) to discover supported capabilities, protocols and formats for keys, claims, credential types and proofs. The design will be inspired by the OAuth "vc-jwt-issuer" metadata work (draft-ietf-oauth-sd-jwt-vc) which supports ecosystems using JSON serialization.
-
-# Milestones
-
-* 04/2025 - Submit an informational Architecture document to the IESG for publication
-* 10/2025 - Submit a proposed standard document covering a JWP/CWP profile for digital credentials to the IESG for publication
-* 10/2025 - Submit a proposed standard document defining SD-CWT to the IESG for publication
-* 03/2026 - Submit a document as a proposed standard covering Metadata & Capability Discovery protocol to the IESG for publication
