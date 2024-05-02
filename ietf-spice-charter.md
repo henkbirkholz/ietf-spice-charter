@@ -1,7 +1,6 @@
 # Introduction
 
-A digital credential links claims about a subject and their cryptographic keys.
-A digital credential expresses claims, assertions, or attributes about a subject, such as their name or age, and their cryptographic keys. Some sets of claim names have already been defined by the IETF and other standards development groups (e.g., OpenID Foundation).
+A digital credential links claims about a subject and their cryptographic keys. Some sets of claim names have already been defined by the IETF and other standards development groups (e.g., OpenID Foundation).
 
 Digital credentials typically involve at least three entities: issuer, holder, and verifier. An issuer constructs and secures a digital credential for a holder. Holders may be willing either to partially disclose some values of their attributes or to demonstrate some properties about their attributes without disclosing their values. Holders disclose credentials, attributes, or proofs regarding attributes in what is called a "digital presentation" to a verifier.
 
